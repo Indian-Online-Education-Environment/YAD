@@ -2,4 +2,4 @@
 
 Academic Bank of Credit.
 
-![logo](./public/assets/yad-logo.png)
+![logo](./public/assets/logo/yad-logo.png)
