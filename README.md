@@ -1,5 +1,4 @@
-#YAD (You Are Doing great)
-
-Academic Bank of Credit.
+# YAD (You Are Doing great)
 
 ![logo](./public/assets/logo/yad-logo.png)
+Academic Bank of Credit.
